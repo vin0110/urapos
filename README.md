@@ -1,1 +1,4 @@
 # urapos
+
+Open source POS.
+
